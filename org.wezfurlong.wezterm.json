@@ -45,7 +45,8 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://github.com/wez/wezterm"
+                    "url": "https://github.com/wezterm/wezterm",
+                    "commit": "712400a558848455e45bd39841fc6dc714e14a94"
                 },
                 {
                   "type": "file",
